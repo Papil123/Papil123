@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/10GTUylYG5BMGtKNw-_NAZ6pkdRFAWN4B/edit?usp=sharing&ouid=110793227167390285722&rtpof=true&sd=true](https://docs.google.com/document/d/10GTUylYG5BMGtKNw-_NAZ6pkdRFAWN4B/edit?usp=sharing&ouid=110793227167390285722&rtpof=true&sd=true)
 
+<img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" ></img>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/papil-kamdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="papil-kamdi" height="30" width="40" /></a>
