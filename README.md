@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Papil Kamdi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 👨‍💻 Portfolio: [https://thunderous-cobbler-62f6ce.netlify.app/](https://thunderous-cobbler-62f6ce.netlify.app/)
+- 👨‍💻 Portfolio: [https://papil-kamdi-portfolio.netlify.app/](https://papil-kamdi-portfolio.netlify.app/)
 
 - 💬 Ask me about **react ,javascript ,nodejs**
 
