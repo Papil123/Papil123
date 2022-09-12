@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India.
 Motivated, adaptable, and responsible  Full Stack Developer seeking a position that utilizes technical and professional skills. Strong drive to see things to completion. Aiming to work with an organization that will help in showcasing my knowledge and skills following the latest technologies and be a part of a team that dynamically works towards the growth of the organization.</h3>
 
-- 👨‍💻 Portfolio: [https://portfolio-papil-kamdi.netlify.app/)
+- 👨‍💻 Portfolio: https://portfolio-papil-kamdi.netlify.app/
 
 - 💬 Ask me about **react ,javascript ,nodejs**
 
